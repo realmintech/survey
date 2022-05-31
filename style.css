@@ -1,21 +1,20 @@
-
 p{
-    border:1px solid palevioletred;
-    background-color:teal;
+    border:1px solid wheat;
+    background-color: brown;
     padding:15px;
 }
 body{
     background-image: url('RealMinTech.jpg');
     background-repeat: no-repeat;
     background-attachment: none;
-    background-color:palevioletred;
+    background-color:wheat;
 }
 b{
     font-size:xx-large;
     font-family: 'Courier New', Courier, monospace;
 }
 a:link, a:visited {
-    background-color: orangered;
+    background-color: brown;
     color:black;
     padding: 15px 25px;
     text-align: center;
@@ -24,5 +23,5 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: teal;
+    background-color: brown;
   }
